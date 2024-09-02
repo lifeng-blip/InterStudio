@@ -9,3 +9,6 @@
 ## 图形化界面调用
 ![image](https://github.com/user-attachments/assets/5205a6e4-12f9-4017-b271-6fb051b7068c)
 ![image](https://github.com/user-attachments/assets/d229220d-b199-4100-be97-f4903ac7862d)  
+## 提示工程(Prompt Engineering)
+![1725279478568](https://github.com/user-attachments/assets/00b0d2c1-0980-46ab-8a7f-7af52682b940)
+![1725279478568](https://github.com/user-attachments/assets/741ebfa2-486b-474f-b1a5-afe52806b4a5)
