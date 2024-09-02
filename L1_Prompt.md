@@ -1,2 +1,5 @@
-1.创建虚拟环境
-![Uploading 1725263465960.png…]()
+# 浦语提示词工程实践
+## 环境配置
+
+![1725263465960](https://github.com/user-attachments/assets/757a2260-18ff-4f1a-b5bb-66df545c1049)  
+
