@@ -10,5 +10,6 @@
 ![image](https://github.com/user-attachments/assets/a66300db-7e5a-422a-b1f3-9d6f316204a8)
 复制一个预设的配置文件
 ![image](https://github.com/user-attachments/assets/994fe73c-96fd-42df-8236-aee0c43380b4)
-
+### 微调后的模型对话
+![image](https://github.com/user-attachments/assets/190e773d-5164-4faa-9bdd-4d07f7a4b816)
 
