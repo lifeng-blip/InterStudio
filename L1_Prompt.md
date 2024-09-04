@@ -12,4 +12,6 @@
 ## 提示工程(Prompt Engineering)
 ![1725279478568](https://github.com/user-attachments/assets/00b0d2c1-0980-46ab-8a7f-7af52682b940)
 ![1725279459787](https://github.com/user-attachments/assets/a5bf9183-b83d-4068-af23-fcebdcd8d854)
-
+## 比较13.8和13.11的大小
+![image](https://github.com/user-attachments/assets/aa81a2d1-ac5b-430b-9039-638b04e1aa9b)
+![image](https://github.com/user-attachments/assets/b864a8e2-b5aa-4e89-9e29-1bc08dffea8a)
