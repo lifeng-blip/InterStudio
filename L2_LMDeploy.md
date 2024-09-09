@@ -32,6 +32,15 @@
 ![image](https://github.com/user-attachments/assets/aabeb670-5e9b-4890-8a98-8a4a4793f34a)
 #### W4A16 量化+ KV cache+KV cache 量化
 ![image](https://github.com/user-attachments/assets/30c8e339-eaa0-46d0-94c6-3bb36d1baf1d)
+![image](https://github.com/user-attachments/assets/c00e64c7-53fd-48c8-bf1a-2b8f86c5e334)
+## LMDeploy之FastAPI与Function call
+### API开发
+![image](https://github.com/user-attachments/assets/f585ef65-9a09-4add-a2c7-7b4e9c5cafb4)
+![image](https://github.com/user-attachments/assets/76a60ce0-6003-4c6a-a833-b742b8b33c1a)
+### Function call
+![image](https://github.com/user-attachments/assets/e351b518-5d2d-4749-8695-9d0e040ccf04)
+![image](https://github.com/user-attachments/assets/1d828a5f-d974-4eb3-bfea-4454b1f75b3b)
+![image](https://github.com/user-attachments/assets/a40bbb6b-5079-44a1-a6b6-1142a299cbe4)
 
 
 
